@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.defaca78.css",
+    "main.js": "/my-portfolio/static/js/main.a3915536.js",
+    "index.html": "/my-portfolio/index.html",
+    "main.defaca78.css.map": "/my-portfolio/static/css/main.defaca78.css.map",
+    "main.a3915536.js.map": "/my-portfolio/static/js/main.a3915536.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.defaca78.css",
+    "static/js/main.a3915536.js"
+  ]
+}
