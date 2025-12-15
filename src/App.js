@@ -2,11 +2,10 @@ import Hero from "./components/Hero";
 import About from "./components/About";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
-import "./App.css";
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
+    <div className="bg-white">
       <Hero />
       <About />
       <Projects />
@@ -14,5 +13,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
